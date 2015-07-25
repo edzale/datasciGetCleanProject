@@ -7,5 +7,5 @@ Uses
   - Appropriately labels the data set with descriptive variable names. 
   - From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject
 
-To reproduce the results you need to run run_analysis.R. 
+To reproduce the results (accelerometers_tidy.txt) you need to run run_analysis.R. 
 Please notice that run_analysis.R utilizes the read_bind function which is in read_bind.R
